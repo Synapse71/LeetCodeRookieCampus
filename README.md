@@ -42,6 +42,8 @@
 - [面试题54 二叉搜索树的第k大节点](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9854)
 - [面试题55-I 二叉树的深度](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9855-I)
 - [面试题55-II 平衡二叉树](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9855-II)
+- [面试题68-I 二叉搜索树的最近公共祖先](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9858-I)
+- [面试题68-II 二叉树的最近公共祖先](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9858-II)
 #### 图
 ### 二、算法
 #### 排序算法
