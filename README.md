@@ -57,3 +57,5 @@
 #### 位运算
 - [面试题56-I 数组中数字出现的次数](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9856-I)
 - [面试题56-II 数组中数字出现的次数 II](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9856-II)
+### 三、多线程
+- [1114 按序打印](https://github.com/Synapse71/LeetCodeRookieCampus/tree/master/1000-2000/1114)
